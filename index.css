@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(235, 71, 42);
+    display: flex; /* Ativa o Flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    min-height: 100vh; /* Garante que o corpo ocupe toda a altura da viewport */
+    margin: 0; /* Remove a margem padrão do body */
+    text-align: center;
+
+  }
+
+.container{
+    border-radius: 25px;
+    background-color: blanchedalmond;
+    font-size: 50px;
+}
+
+button{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    border-radius: 25px;
+
+}
+
