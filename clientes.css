@@ -69,3 +69,8 @@ footer {
   padding: 20px;
   margin-top: 40px;
 }
+
+.header-left {
+  display: flex;
+  gap: 10px; /* espaço entre os botões */
+}

@@ -85,3 +85,16 @@
     .excluir:hover {
       background: #c0392b;
     }
+
+    button.excluir {
+    background-color: #e74c3c; /* vermelho */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button.excluir:hover {
+    background-color: #c0392b; /* vermelho mais escuro ao passar o mouse */
+}
